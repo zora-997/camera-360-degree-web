@@ -1,0 +1,26 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = marina
+
+## Skin
+
+### Tooltip
+IconButton_29EDEADF_38FC_2CD9_418A_F0F3B2AF3FBE.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_2C2349A2_38E4_6D68_41B5_E6F695CD5157.label = 9
+panorama_31280B60_38E4_6DE8_416E_0E48A9EBCDC8.label = 7
+panorama_312833C3_38E4_5D28_41C2_2D3A10B4236D.label = 8
+panorama_312853AC_38E4_5D78_41BA_46B6FD87226C.label = 4
+panorama_312873A3_38E4_7D68_41C9_5258E52BA0F4.label = 6
+panorama_31287BC5_38E4_6D29_41C9_4C2F695A2361.label = 5
+panorama_31287BE3_38E4_2CE8_41CB_7201ACF4C35D.label = 3
+panorama_3133E3F2_38E4_3CEB_41C3_9EF4B5E9D4F6.label = 2
+panorama_3208D823_38E4_2B68_41B7_546387B51A23.label = 1
